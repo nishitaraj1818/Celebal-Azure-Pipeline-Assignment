@@ -1,0 +1,7 @@
+Pipeline Execution Results
+
+The pipeline executed successfully without errors.
+The Get Metadata activity validated the source file by checking its existence and size.
+The Copy Data activity copied the Superstore CSV file from the source Blob container to the destination Blob container.
+The execution status in the Monitor tab was Succeeded.
+The destination container contained the copied CSV file, confirming successful end-to-end data movement.
