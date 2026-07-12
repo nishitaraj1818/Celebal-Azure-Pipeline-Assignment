@@ -49,11 +49,3 @@ Blob Storage (Destination)
 
 The pipeline successfully copied the CSV file from the source Blob container to the destination Blob container after validating metadata.
 
-## Repository Structure
-
-```
-screenshots/
-dataset/
-docs/
-README.md
-```
